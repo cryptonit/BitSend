@@ -9,9 +9,8 @@
 #include "config/bitsend-config.h"
 #else
 
-	
-	/**TODO-- change accordingly
-/**
+
+/*
  * client versioning and copyright year
  */
 
@@ -24,7 +23,7 @@
 //! Set to true for release, false for prerelease or test build
 #define CLIENT_VERSION_IS_RELEASE true
 
-/**
+/*
  * Copyright year (2009-this)
  * Todo: update this when changing our copyright comments in the source
  */
